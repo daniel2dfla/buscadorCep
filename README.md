@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Projeto Busca Cep
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![rocket_1f680](https://github.com/daniel2dfla/portfolio/blob/main/src/img/cep.PNG)
 
-## Available Scripts
+## Tabela de conteúdo
 
-In the project directory, you can run:
+<!--ts-->
 
-### `npm start`
+   * [😉Início](#projeto-busca-cep)
+   * [🧾Descrição](#descrição)
+   * [⏳Status do projeto](#status-do-projeto)
+   * [🔍Características](#caracteristicas)
+   * [💻Rodando o projeto localmente](#rodando-o-projeto-localmente)
+   * [🔗Link do surge](#link-do-surge)
+   * [👌O que funciona](#o-que-funciona)
+   * [😎Fim](#fim)
+   
+   
+<!--te-->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Descrição
+ 🧾O objetivo foi criar um buscador de cep, o design do projeto foi voltado para os direitos LGBTQIA+ , assim como outra qualquer outro tipo de discriminação , pois, enquanto houver homofobia, racismo, xenofobia, ou qualquer outra forma de agressão, não existirá a possibilidade de uma sociedade democrática.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Status do projeto
+*Finalizado(podendo haver alterações a medida que surgir necessidade).
 
-### `npm test`
+## Caracteristicas
+🔍O projeto é composto por:
+* **Página de busca**, onde a pessoa vai inserir o cep desejado e aparecerá as informaçãos, como cidade, estado, bairro, etc.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Rodando o projeto localmente
 
-### `npm run build`
+|         Etapa         |          Comando         |
+|-----------------------|--------------------------|
+|     Faça o clone      |       `git clone`        |
+|Instale as dependencias|      `npm install`       |
+|   Starte o projeto    |        `npm start`       |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Link do surge 
+🔗http://animated-laborer.surge.sh/
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## O que funciona
+✨O projeto esta funcionando de acordo com o esperado.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Técnologias utilizadas
+<div>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Fim
