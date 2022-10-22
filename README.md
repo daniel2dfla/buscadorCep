@@ -19,7 +19,7 @@
 <!--te-->
 
 ## Descrição
- 🧾O objetivo foi criar um buscador de cep, o design do projeto foi voltado para os direitos LGBTQIA+ , assim como outra qualquer outro tipo de discriminação , pois, enquanto houver homofobia, racismo, xenofobia, ou qualquer outra forma de agressão, não existirá a possibilidade de uma sociedade democrática.
+ 🧾O objetivo foi criar um buscador de cep, o design do projeto foi voltado para os direitos LGBTQIA+ , assim como qualquer outro tipo de discriminação , pois, enquanto houver homofobia, racismo, xenofobia, ou qualquer outra forma de agressão, não existirá a possibilidade de uma sociedade democrática.
 
 ## Status do projeto
 *Finalizado(podendo haver alterações a medida que surgir necessidade).
